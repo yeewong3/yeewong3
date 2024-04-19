@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yeewong3
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
+Nothing special here. Just trying to fill the void of my knowledge.
 
 <!---
 yeewong3/yeewong3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
